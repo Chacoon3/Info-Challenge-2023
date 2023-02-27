@@ -1,94 +1,94 @@
-type_index,info
-0,No Impact 
-1,Drive Off Road 
-2,Control/Traction Loss 
-3,"Avoid Collision with Vehicle, Pedestrian, Animal "
-4,Specifics Other 
-5,Specifics Unknown 
-6,Drive Off Road 
-7,Control/Traction Loss 
-8,"Avoid Collision With Vehicle, Pedestrian, Animal "
-9,Specifics Other 
-10,Specifics Unknown 
-11,Parked Vehicle 
-12,Stationary Object 
-13,Pedestrian/Animal 
-14,End Departure 
-15,Specifics Other 
-16,Specifics Unknown 
-39,This Vehicle Impacted by Frontal Area of Another Vehicle 
-40,This Vehicle's Frontal Area Impacts Another Vehicle. 
-41,This Vehicle Impacted by Frontal Area of Another Vehicle 
-42,Specifics Other 
-43,Specifics Unknown 
-44,Straight Ahead on Left. 
-45,Straight Ahead on Left/Right. 
-46,Changing Lanes to the Right 
-47,Changing Lanes to the Left 
-48,Specifics Other 
-49,Specifics Unknown
-50,Lateral Move (Left/Right) 
-51,Lateral Move (Going Straight) 
-52,Specifics Other 
-53,Specifics Unknown 
-70,Initial Same Directions (Turning Right) 
-71,Initial Same Directions (Going Straight) 
-72,Initial Same Directions (Turning Left) 
-73,Initial Same Directions (Going Straight) 
-74,Specifics Other 
-75,Specifics Unknown 
-76,Turn Into Same Direction (Turning Left) 
-77,Turn Into Same Direction (Going Straight) 
-78,Turn Into Same Direction (Turning Right) 
-79,Turn Into Same Direction (Going Straight) 
-80,Turn Into Opposite Directions (Turning Right) 
-81,Turn Into Opposite Directions (Going Straight) 
-82,Turn Into Opposite Directions (Turning Left) 
-83,Turn Into Opposite Directions (Going Straight) 
-84,Specifics Other 
-85,Specifics Unknown
-20,Stopped 
-21,"Stopped, Straight "
-22,"Stopped, Left "
-23,"Stopped, Right "
-24,Slower 
-25,"Slower, Going Straight "
-26,"Slower, Going Left "
-27,"Slower, Going Right "
-28,Decelerating (Slowing) 
-29,"Decelerating (Slowing), Going Straight"
-30,"Decelerating (Slowing), Going Left "
-31,"Decelerating (Slowing), Going Right "
-32,Specifics Other 
-33,Specifics Unknown
-34,This Vehicles Frontal Area Impacts Another Vehicle. 
-35,This Vehicle Is Impacted by Frontal Area of Another Vehicle 
-36,This Vehicle's Frontal Area Impacts Another Vehicle. 
-37,This Vehicle Impacted by Front Area of Another Vehicle 
-38,This Vehicle's Frontal Area Impacts Another Vehicle. 
-54,This Vehicles Frontal Area Impacts Another Vehicle. 
-55,This Vehicle Impacted by Frontal Area of Another Vehicle 
-56,This Vehicles Frontal Area Impacts Another Vehicle. 
-57,This Vehicle Is Impacted by Frontal Area of Another Vehicle 
-58,This Vehicles Frontal Area Impacts Another Vehicle. 
-59,This Vehicle Is Impacted by Frontal Area of Another Vehicle 
-60,This Vehicles Frontal Area Impacts Another Vehicle. 
-61,This Vehicle Impacted by Frontal Area of Another Vehicle 
-62,Specifics Other 
-63,Specifics Unknown 
-64,Lateral Move (Left/Right) 
-65,Lateral Move (Going Straight) 
-66,Specifics Other 
-67,Specifics Unknown
-68,Initial Opposite Directions (Left/Right) 
-69,Initial Opposite Directions (Going Straight) 
-86,Striking from the Right 
-87,Struck on the Right 
-88,Striking from the Left 
-89,Struck on the Left 
-90,Specifics Other 
-91,Specifics Unknown 
-92,Backing Vehicle 
-93,Other Vehicle or Object 
-98,Other Crash Type 
-99,Unknown Crash Type
+type_index,info,category
+0,No Impact ,NOT CATEGORIZED
+1,Drive Off Road ,SINGLE DRIVER
+2,Control/Traction Loss ,SINGLE DRIVER
+3,"Avoid Collision with Vehicle, Pedestrian, Animal ",SINGLE DRIVER
+4,Specifics Other ,SINGLE DRIVER
+5,Specifics Unknown ,SINGLE DRIVER
+6,Drive Off Road ,SINGLE DRIVER
+7,Control/Traction Loss ,SINGLE DRIVER
+8,"Avoid Collision With Vehicle, Pedestrian, Animal ",SINGLE DRIVER
+9,Specifics Other ,SINGLE DRIVER
+10,Specifics Unknown ,SINGLE DRIVER
+11,Parked Vehicle ,SINGLE DRIVER
+12,Stationary Object ,SINGLE DRIVER
+13,Pedestrian/Animal ,SINGLE DRIVER
+14,End Departure ,SINGLE DRIVER
+15,Specifics Other ,SINGLE DRIVER
+16,Specifics Unknown ,SINGLE DRIVER
+39,This Vehicle Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, SAME DIRECTION"
+40,This Vehicle's Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, SAME DIRECTION"
+41,This Vehicle Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, SAME DIRECTION"
+42,Specifics Other ,"SAME TRAFFICWAY, SAME DIRECTION"
+43,Specifics Unknown ,"SAME TRAFFICWAY, SAME DIRECTION"
+44,Straight Ahead on Left. ,"SAME TRAFFICWAY, SAME DIRECTION"
+45,Straight Ahead on Left/Right. ,"SAME TRAFFICWAY, SAME DIRECTION"
+46,Changing Lanes to the Right ,"SAME TRAFFICWAY, SAME DIRECTION"
+47,Changing Lanes to the Left ,"SAME TRAFFICWAY, SAME DIRECTION"
+48,Specifics Other ,"SAME TRAFFICWAY, SAME DIRECTION"
+49,Specifics Unknown,"SAME TRAFFICWAY, SAME DIRECTION"
+50,Lateral Move (Left/Right) ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+51,Lateral Move (Going Straight) ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+52,Specifics Other ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+53,Specifics Unknown ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+70,Initial Same Directions (Turning Right) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+71,Initial Same Directions (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+72,Initial Same Directions (Turning Left) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+73,Initial Same Directions (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+74,Specifics Other ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+75,Specifics Unknown ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+76,Turn Into Same Direction (Turning Left) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+77,Turn Into Same Direction (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+78,Turn Into Same Direction (Turning Right) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+79,Turn Into Same Direction (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+80,Turn Into Opposite Directions (Turning Right) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+81,Turn Into Opposite Directions (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+82,Turn Into Opposite Directions (Turning Left) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+83,Turn Into Opposite Directions (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+84,Specifics Other ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+85,Specifics Unknown,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+20,Stopped ,SINGLE DRIVER
+21,"Stopped, Straight ","SAME TRAFFICWAY, SAME DIRECTION"
+22,"Stopped, Left ","SAME TRAFFICWAY, SAME DIRECTION"
+23,"Stopped, Right ","SAME TRAFFICWAY, SAME DIRECTION"
+24,Slower ,"SAME TRAFFICWAY, SAME DIRECTION"
+25,"Slower, Going Straight ","SAME TRAFFICWAY, SAME DIRECTION"
+26,"Slower, Going Left ","SAME TRAFFICWAY, SAME DIRECTION"
+27,"Slower, Going Right ","SAME TRAFFICWAY, SAME DIRECTION"
+28,Decelerating (Slowing) ,"SAME TRAFFICWAY, SAME DIRECTION"
+29,"Decelerating (Slowing), Going Straight","SAME TRAFFICWAY, SAME DIRECTION"
+30,"Decelerating (Slowing), Going Left ","SAME TRAFFICWAY, SAME DIRECTION"
+31,"Decelerating (Slowing), Going Right ","SAME TRAFFICWAY, SAME DIRECTION"
+32,Specifics Other ,"SAME TRAFFICWAY, SAME DIRECTION"
+33,Specifics Unknown,"SAME TRAFFICWAY, SAME DIRECTION"
+34,This Vehicles Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, SAME DIRECTION"
+35,This Vehicle Is Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, SAME DIRECTION"
+36,This Vehicle's Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, SAME DIRECTION"
+37,This Vehicle Impacted by Front Area of Another Vehicle ,"SAME TRAFFICWAY, SAME DIRECTION"
+38,This Vehicle's Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, SAME DIRECTION"
+54,This Vehicles Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+55,This Vehicle Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+56,This Vehicles Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+57,This Vehicle Is Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+58,This Vehicles Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+59,This Vehicle Is Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+60,This Vehicles Frontal Area Impacts Another Vehicle. ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+61,This Vehicle Impacted by Frontal Area of Another Vehicle ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+62,Specifics Other ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+63,Specifics Unknown ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+64,Lateral Move (Left/Right) ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+65,Lateral Move (Going Straight) ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+66,Specifics Other ,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+67,Specifics Unknown,"SAME TRAFFICWAY, OPPOSITE DIRECTION"
+68,Initial Opposite Directions (Left/Right) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+69,Initial Opposite Directions (Going Straight) ,"CHANGING TRAFFICWAY, VEHICLE TURNING"
+86,Striking from the Right ,INTERSECTING PATHS (VEHICLE DAMAGE)
+87,Struck on the Right ,INTERSECTING PATHS (VEHICLE DAMAGE)
+88,Striking from the Left ,INTERSECTING PATHS (VEHICLE DAMAGE)
+89,Struck on the Left ,INTERSECTING PATHS (VEHICLE DAMAGE)
+90,Specifics Other ,INTERSECTING PATHS (VEHICLE DAMAGE)
+91,Specifics Unknown ,INTERSECTING PATHS (VEHICLE DAMAGE)
+92,Backing Vehicle ,MISCELLANEOUS
+93,Other Vehicle or Object ,MISCELLANEOUS
+98,Other Crash Type ,MISCELLANEOUS
+99,Unknown Crash Type,MISCELLANEOUS
