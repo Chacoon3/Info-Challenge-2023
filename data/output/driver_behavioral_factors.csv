@@ -1,106 +1,108 @@
 ,factor_index,driver_factor,effect_start,effect_end,factor_category
-0,0,No factors identified for this driver,-inf,inf,default
-1,1," Drowsy, Asleep",-inf,2009.0,Physical/Mental Condition
-2,2," Ill, Passed Out, Blacked Out",-inf,2009.0,Physical/Mental Condition
-3,3," Emotional (e.g., depressed, angry, disturbed)",-inf,2009.0,Physical/Mental Condition
-4,4,Reaction to/Failure to take Drugs/Medication ,-inf,inf,Physical/Mental Condition
-5,5,"(2003-2009) Impaired by Alcohol, Drugs, Meds",-inf,inf,Physical/Mental Condition
-6,6," Inattentive , Careless Driving ",2012.0,2012.0,Physical/Mental Condition
-7,7,Restricted to Wheelchair ,-inf,2009.0,Physical/Mental Condition
-8,8,"Paraplegic , Aggressive Driving Road Rage  ",2004.0,1994.0,Physical/Mental Condition
-9,10,Looked but did not see,-inf,inf,Physical/Mental Condition
-10,12,Mother of Dead Fetus or Infant Born Post-Crash,-inf,inf,Physical/Mental Condition
-11,13,Mentally Challenged ,-inf,2020.0,Physical/Mental Condition
-12,13,"Person with an Intellectual, Cognitive, or Developmental Disability ",2021.0,inf,Physical/Mental Condition
-13,15,Seat Back Not In Normal Upright Position,-inf,inf,Miscellaneous Factors
-14,16,Police or Law Enforcement Officer  ,2002.0,inf,Miscellaneous Factors
-15,18,Traveling on Prohibited Trafficways ,-inf,inf,Miscellaneous Factors
-16,19,Legally Driving on Suspended / Revoked License ,-inf,inf,Miscellaneous Factors
-17,20,Leaving Vehicle Unattended in Roadway/With engine running ,-inf,inf,Miscellaneous Factors
-18,21,Overloading or Improper Loading of Vehicle  ,-inf,inf,Miscellaneous Factors
-19,22,Towing or Pushing Improperly ,-inf,inf,Miscellaneous Factors
-20,23,Failure to Dim Lights or to Have Lights on as Required ,-inf,inf,Miscellaneous Factors
-21,24,Operating Without Required Equipment ,-inf,inf,Miscellaneous Factors
-22,26,Following Improperly ,-inf,inf,Miscellaneous Factors
-23,27,Improper or Erratic Lane Changing ,-inf,inf,Miscellaneous Factors
-24,28,Failure to Keep in Proper Lane ,-inf,2014.0,Miscellaneous Factors
-25,28, Improper lane usage ,2015.0,inf,Miscellaneous Factors
-26,29,"Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or  Median",-inf,inf,Miscellaneous Factors
-27,30,Making Improper Entry To or Exit From Trafficway ,-inf,inf,Miscellaneous Factors
-28,31,Starting or Backing Improperly ,-inf,inf,Miscellaneous Factors
-29,32,Opening Door/Trunk in Traffic /with Vehicle  in Motion ,-inf,inf,Miscellaneous Factors
-30,33,"Passing Where Prohibited by Signs, Pavement Marks, or School Bus Showing No Passing Sign",-inf,inf,Miscellaneous Factors
-31,34,Passing on Right Side ,-inf,inf,Miscellaneous Factors
-32,35,"Passing With Insufficient Distance/Visibility, or Failing to Yield to Passing Vehicle ",-inf,inf,Miscellaneous Factors
-33,36,"Driving in an Erratic, Reckless, Negligent Manner",-inf,inf,Miscellaneous Factors
-34,37,Police Pursuing  Driver / Police Officer in Pursuit ,-inf,inf,Miscellaneous Factors
-35,38,Failure to Yield Right-of-Way ,-inf,inf,Miscellaneous Factors
-36,39,"Failure to Obey Traffic Laws, Signs,  Officers, or Signals",-inf,inf,Miscellaneous Factors
-37,40,Passing Through or Around Barrier ,-inf,inf,Miscellaneous Factors
-38,41,Failure to Follow Warnings/Instructions on Vehicles with Them ,-inf,inf,Miscellaneous Factors
-39,42,Failure to Signal Intentions ,-inf,inf,Miscellaneous Factors
-40,43,Driving too Fast for Conditions,-inf,inf,Miscellaneous Factors
-41,44,Driving above Posted Speed (2008 only),-inf,inf,Miscellaneous Factors
-42,44,Driving above Posted Speed / Too Fast for Conditions ,-inf,2007.0,Miscellaneous Factors
-43,45,Driving Less Than Posted Minimum ,-inf,inf,Miscellaneous Factors
-44,46,Erratic Speed Changes ,-inf,1994.0,Miscellaneous Factors
-45,46,Racing (1998-2008),-inf,inf,Miscellaneous Factors
-46,47,"Making Right Turn from Lt-Turn Lane,Left Turn from Rt-Turn Lane ",-inf,inf,Miscellaneous Factors
-47,48,Making Other Improper Turn,-inf,inf,Miscellaneous Factors
-48,49,Failure to Comply w/ Physical License Restrictrions ,-inf,2004.0,Miscellaneous Factors
-49,50,Driving Wrong Way on One-Way Trafficway ,-inf,inf,Miscellaneous Factors
-50,51,Driving on Wrong Side of Two-Way Trafficway ,-inf,inf,Miscellaneous Factors
-51,52,Operator Inexperience ,-inf,inf,Miscellaneous Factors
-52,53,Unfamiliar with Roadway ,-inf,inf,Miscellaneous Factors
-53,54,Stopping in Roadway,-inf,inf,Miscellaneous Factors
-54,55,Underriding Parked Truck ,-inf,2008.0,Miscellaneous Factors
-55,55,Improper Management of Vehicle Controls (Since 2017),-inf,inf,Miscellaneous Factors
-56,56,Improper Tire Pressure ,-inf,2005.0,Miscellaneous Factors
-57,56,Object Interference with Vehicle Controls  ,2017.0,inf,Miscellaneous Factors
-58,57,Locked Wheel ,-inf,2014.0,Miscellaneous Factors
-59,57,Driving with tire-related problems ,2017.0,inf,Miscellaneous Factors
-60,58,Overcorrecting,-inf,inf,Miscellaneous Factors
-61,59,Getting Off/Out of or On/Into a Moving Vehicle,-inf,inf,Miscellaneous Factors
-62,60,Getting Off/Out of or On/Into Non-Moving Vehicle ,-inf,2004.0,Miscellaneous Factors
-63,60,Alcohol and/or drug test refused ,2017.0,inf,Miscellaneous Factors
-64,61,"Rain, Snow, Fog, Smoke, Sand, Dust ",-inf,inf,Vision Obscured
-65,62,"Glare, Sunlight, Headlights ",-inf,inf,Vision Obscured
-66,63,"Curve, Hill, Other Traffic Design Feature (e.g., signs)",-inf,inf,Vision Obscured
-67,64,"Building, Billboard, etc.",-inf,inf,Vision Obscured
-68,65,"Trees, Crops, Vegetation",-inf,inf,Vision Obscured
-69,66,"Motor Vehicle (including load, trailer)",-inf,inf,Vision Obscured
-70,67,Parked Vehicle,-inf,inf,Vision Obscured
-71,68,Splash/Spray from Passing Vehicle,-inf,inf,Vision Obscured
-72,69,Inadequate Defrost/Defog System,-inf,inf,Vision Obscured
-73,70,Inadequate Vehicle Lighting,-inf,inf,Vision Obscured
-74,71,Obstructing Angles on Vehicle,-inf,inf,Vision Obscured
-75,72,Rear-view Mirrors,-inf,inf,Vision Obscured
-76,73,Mirrors-Other ,-inf,2001.0,Vision Obscured
-77,73,Driver Not Complied With Learner’s Permit or Intermediate GDL Restrictions  ,2004.0,inf,Special Circumstances
-78,74,Driver Not Complying w/ Imposed Restrictions (Non-GDL),-inf,inf,Special Circumstances
-79,77,Severe Crosswind ,-inf,inf,"Skidding, Swerving, Sliding"
-80,78,Wind From Passing Truck ,-inf,inf,"Skidding, Swerving, Sliding"
-81,79,Slippery or Loose Surface ,-inf,inf,"Skidding, Swerving, Sliding"
-82,80,Tire Blowout or Flat ,-inf,inf,"Skidding, Swerving, Sliding"
-83,81,Debris or Objects in Road ,-inf,inf,"Skidding, Swerving, Sliding"
-84,82,"Ruts, Holes, Bumps in Road ",-inf,inf,"Skidding, Swerving, Sliding"
-85,83,Live Animals in Road ,-inf,inf,"Skidding, Swerving, Sliding"
-86,84,Vehicle in Road,-inf,inf,"Skidding, Swerving, Sliding"
-87,85,Phantom Vehicle,-inf,inf,"Skidding, Swerving, Sliding"
-88,86,"Pedestrian, Pedalcyclist, Other Non-Motorist",-inf,inf,"Skidding, Swerving, Sliding"
-89,87,"Ice, Water, Snow, Slush, Sand, Dirt, Oil, or Wet Leaves on Road",-inf,inf,"Skidding, Swerving, Sliding"
-90,89,Driver has Driving Record or License from More than One State ,-inf,inf,"Skidding, Swerving, Sliding"
-91,91,"Non-Traffic Violation Charged (manslaughter, homicide, other assault offense w/o malice) ",-inf,2020.0,"Skidding, Swerving, Sliding"
-92,92,Other Non-Moving Traffic Violation ,-inf,2011.0,"Skidding, Swerving, Sliding"
-93,93,Cellular Telephone ,-inf,inf,Possible Distraction Inside Vehicle
-94,94,Cellular Telephone in Use (2002-2009); ,-inf,inf,Possible Distraction Inside Vehicle
-95,95,Computer ; ,-inf,2001.0,Possible Distraction Inside Vehicle
-96,95,"Computer, Fax, Printer (2002-2009)",-inf,inf,Possible Distraction Inside Vehicle
-97,96,On-Board Navigation System,-inf,inf,Possible Distraction Inside Vehicle
-98,97,Two-Way Radio,-inf,inf,Possible Distraction Inside Vehicle
-99,98,Head-Up Display,-inf,inf,Possible Distraction Inside Vehicle
-100,99,Unknown,-inf,inf,Possible Distraction Inside Vehicle
-101,94,Emergency Medical Service Personnel,-inf,inf,Possible Distraction Inside Vehicle
-102,95,Fire Personnel,-inf,inf,Possible Distraction Inside Vehicle
-103,96,Tow Operator,-inf,inf,Possible Distraction Inside Vehicle
-104,97,"Transportation i.e. maintenance workers, saftety service patrol operators, etc.",-inf,inf,Possible Distraction Inside Vehicle
+0,0,No factors identified for this driver,0,9999,default
+1,1," Drowsy, Asleep",0,2009,Physical/Mental Condition
+2,2," Ill, Passed Out, Blacked Out",0,2009,Physical/Mental Condition
+3,3," Emotional (e.g., depressed, angry, disturbed)",0,2009,Physical/Mental Condition
+4,4,Reaction to/Failure to take Drugs/Medication ,0,9999,Physical/Mental Condition
+5,5," Impaired by Alcohol, Drugs, Meds",2003,2009,Physical/Mental Condition
+6,6, Inattentive ,0,2012,Physical/Mental Condition
+7,6,Careless Driving ,2012,9999,Physical/Mental Condition
+8,7,Restricted to Wheelchair ,0,2009,Physical/Mental Condition
+9,8,Paraplegic ,0,1994,Physical/Mental Condition
+10,8,Aggressive Driving Road Rage  ,2004,9999,Physical/Mental Condition
+11,10,Looked but did not see,0,9999,Physical/Mental Condition
+12,12,Mother of Dead Fetus or Infant Born Post-Crash,0,9999,Physical/Mental Condition
+13,13,Mentally Challenged ,0,2020,Physical/Mental Condition
+14,13,"Person with an Intellectual, Cognitive, or Developmental Disability ",2021,9999,Physical/Mental Condition
+15,15,Seat Back Not In Normal Upright Position,0,9999,Miscellaneous Factors
+16,16,Police or Law Enforcement Officer  ,2002,9999,Miscellaneous Factors
+17,18,Traveling on Prohibited Trafficways ,0,9999,Miscellaneous Factors
+18,19,Legally Driving on Suspended / Revoked License ,0,9999,Miscellaneous Factors
+19,20,Leaving Vehicle Unattended in Roadway/With engine running ,0,9999,Miscellaneous Factors
+20,21,Overloading or Improper Loading of Vehicle  ,0,9999,Miscellaneous Factors
+21,22,Towing or Pushing Improperly ,0,9999,Miscellaneous Factors
+22,23,Failure to Dim Lights or to Have Lights on as Required ,0,9999,Miscellaneous Factors
+23,24,Operating Without Required Equipment ,0,9999,Miscellaneous Factors
+24,26,Following Improperly ,0,9999,Miscellaneous Factors
+25,27,Improper or Erratic Lane Changing ,0,9999,Miscellaneous Factors
+26,28,Failure to Keep in Proper Lane ,0,2014,Miscellaneous Factors
+27,28, Improper lane usage ,2015,9999,Miscellaneous Factors
+28,29,"Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or  Median",0,9999,Miscellaneous Factors
+29,30,Making Improper Entry To or Exit From Trafficway ,0,9999,Miscellaneous Factors
+30,31,Starting or Backing Improperly ,0,9999,Miscellaneous Factors
+31,32,Opening Door/Trunk in Traffic /with Vehicle  in Motion ,0,9999,Miscellaneous Factors
+32,33,"Passing Where Prohibited by Signs, Pavement Marks, or School Bus Showing No Passing Sign",0,9999,Miscellaneous Factors
+33,34,Passing on Right Side ,0,9999,Miscellaneous Factors
+34,35,"Passing With Insufficient Distance/Visibility, or Failing to Yield to Passing Vehicle ",0,9999,Miscellaneous Factors
+35,36,"Driving in an Erratic, Reckless, Negligent Manner",0,9999,Miscellaneous Factors
+36,37,Police Pursuing  Driver / Police Officer in Pursuit ,0,9999,Miscellaneous Factors
+37,38,Failure to Yield Right-of-Way ,0,9999,Miscellaneous Factors
+38,39,"Failure to Obey Traffic Laws, Signs,  Officers, or Signals",0,9999,Miscellaneous Factors
+39,40,Passing Through or Around Barrier ,0,9999,Miscellaneous Factors
+40,41,Failure to Follow Warnings/Instructions on Vehicles with Them ,0,9999,Miscellaneous Factors
+41,42,Failure to Signal Intentions ,0,9999,Miscellaneous Factors
+42,43,Driving too Fast for Conditions,0,9999,Miscellaneous Factors
+43,44,Driving above Posted Speed ,2008,2008,Miscellaneous Factors
+44,44,Driving above Posted Speed / Too Fast for Conditions ,0,2007,Miscellaneous Factors
+45,45,Driving Less Than Posted Minimum ,0,9999,Miscellaneous Factors
+46,46,Erratic Speed Changes ,0,1994,Miscellaneous Factors
+47,46,Racing ,1998,2008,Miscellaneous Factors
+48,47,"Making Right Turn from Lt-Turn Lane,Left Turn from Rt-Turn Lane ",0,9999,Miscellaneous Factors
+49,48,Making Other Improper Turn,0,9999,Miscellaneous Factors
+50,49,Failure to Comply w/ Physical License Restrictrions ,0,2004,Miscellaneous Factors
+51,50,Driving Wrong Way on One-Way Trafficway ,0,9999,Miscellaneous Factors
+52,51,Driving on Wrong Side of Two-Way Trafficway ,0,9999,Miscellaneous Factors
+53,52,Operator Inexperience ,0,9999,Miscellaneous Factors
+54,53,Unfamiliar with Roadway ,0,9999,Miscellaneous Factors
+55,54,Stopping in Roadway,0,9999,Miscellaneous Factors
+56,55,Underriding Parked Truck ,0,2008,Miscellaneous Factors
+57,55,Improper Management of Vehicle Controls (Since 2017),0,9999,Miscellaneous Factors
+58,56,Improper Tire Pressure ,0,2005,Miscellaneous Factors
+59,56,Object Interference with Vehicle Controls  ,2017,9999,Miscellaneous Factors
+60,57,Locked Wheel ,0,2014,Miscellaneous Factors
+61,57,Driving with tire-related problems ,2017,9999,Miscellaneous Factors
+62,58,Overcorrecting,0,9999,Miscellaneous Factors
+63,59,Getting Off/Out of or On/Into a Moving Vehicle,0,9999,Miscellaneous Factors
+64,60,Getting Off/Out of or On/Into Non-Moving Vehicle ,0,2004,Miscellaneous Factors
+65,60,Alcohol and/or drug test refused ,2017,9999,Miscellaneous Factors
+66,61,"Rain, Snow, Fog, Smoke, Sand, Dust ",0,9999,Vision Obscured
+67,62,"Glare, Sunlight, Headlights ",0,9999,Vision Obscured
+68,63,"Curve, Hill, Other Traffic Design Feature (e.g., signs)",0,9999,Vision Obscured
+69,64,"Building, Billboard, etc.",0,9999,Vision Obscured
+70,65,"Trees, Crops, Vegetation",0,9999,Vision Obscured
+71,66,"Motor Vehicle (including load, trailer)",0,9999,Vision Obscured
+72,67,Parked Vehicle,0,9999,Vision Obscured
+73,68,Splash/Spray from Passing Vehicle,0,9999,Vision Obscured
+74,69,Inadequate Defrost/Defog System,0,9999,Vision Obscured
+75,70,Inadequate Vehicle Lighting,0,9999,Vision Obscured
+76,71,Obstructing Angles on Vehicle,0,9999,Vision Obscured
+77,72,Rear-view Mirrors,0,9999,Vision Obscured
+78,73,Mirrors-Other ,0,2001,Vision Obscured
+79,73,Driver Not Complied With Learner’s Permit or Intermediate GDL Restrictions  ,2004,9999,Special Circumstances
+80,74,Driver Not Complying w/ Imposed Restrictions (Non-GDL),0,9999,Special Circumstances
+81,77,Severe Crosswind ,0,9999,"Skidding, Swerving, Sliding"
+82,78,Wind From Passing Truck ,0,9999,"Skidding, Swerving, Sliding"
+83,79,Slippery or Loose Surface ,0,9999,"Skidding, Swerving, Sliding"
+84,80,Tire Blowout or Flat ,0,9999,"Skidding, Swerving, Sliding"
+85,81,Debris or Objects in Road ,0,9999,"Skidding, Swerving, Sliding"
+86,82,"Ruts, Holes, Bumps in Road ",0,9999,"Skidding, Swerving, Sliding"
+87,83,Live Animals in Road ,0,9999,"Skidding, Swerving, Sliding"
+88,84,Vehicle in Road,0,9999,"Skidding, Swerving, Sliding"
+89,85,Phantom Vehicle,0,9999,"Skidding, Swerving, Sliding"
+90,86,"Pedestrian, Pedalcyclist, Other Non-Motorist",0,9999,"Skidding, Swerving, Sliding"
+91,87,"Ice, Water, Snow, Slush, Sand, Dirt, Oil, or Wet Leaves on Road",0,9999,"Skidding, Swerving, Sliding"
+92,89,Driver has Driving Record or License from More than One State ,0,9999,"Skidding, Swerving, Sliding"
+93,91,"Non-Traffic Violation Charged (manslaughter, homicide, other assault offense w/o malice) ",0,2020,"Skidding, Swerving, Sliding"
+94,92,Other Non-Moving Traffic Violation ,0,2011,"Skidding, Swerving, Sliding"
+95,93,Cellular Telephone ,0,2009,Possible Distraction Inside Vehicle
+96,94,Cellular Telephone in Use ,2002,2009,Possible Distraction Inside Vehicle
+97,95,Computer ,0,2001,Possible Distraction Inside Vehicle
+98,95,"Computer, Fax, Printer ",2002,2009,Possible Distraction Inside Vehicle
+99,96,On-Board Navigation System,0,2009,Possible Distraction Inside Vehicle
+100,97,Two-Way Radio,0,2009,Possible Distraction Inside Vehicle
+101,98,Head-Up Display,0,2009,Possible Distraction Inside Vehicle
+102,99,Unknown,0,2009,Possible Distraction Inside Vehicle
+103,94,Emergency Medical Service Personnel ,0,2019,Possible Distraction Inside Vehicle
+104,95,Fire Personnel ,0,2019,Possible Distraction Inside Vehicle
+105,96,Tow Operator ,0,2019,Possible Distraction Inside Vehicle
+106,97,"Transportation i.e. maintenance workers, saftety service patrol operators, etc. ",0,2019,Possible Distraction Inside Vehicle

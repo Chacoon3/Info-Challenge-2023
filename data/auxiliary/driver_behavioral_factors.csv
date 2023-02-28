@@ -6,9 +6,11 @@ Physical/Mental Condition:
 "3=(through 2009) Emotional (e.g., depressed, angry, disturbed)"
 4=Reaction to/Failure to take Drugs/Medication 
 "5=(2003-2009) Impaired by Alcohol, Drugs, Meds"
-"6= Inattentive (through 2012), Careless Driving (since 2012)"
+6= Inattentive (through 2012)
+6=Careless Driving (since 2012)
 7=Restricted to Wheelchair (through 2009)
-"8=Paraplegic (through 1994), Aggressive Driving Road Rage (since 2004) "
+8=Paraplegic (through 1994)
+8=Aggressive Driving Road Rage (since 2004) 
 10=Looked but did not see
 12=Mother of Dead Fetus or Infant Born Post-Crash
 13=Mentally Challenged (through 2020)
@@ -98,16 +100,16 @@ Special Circumstances:
 "91=Non-Traffic Violation Charged (manslaughter, homicide, other assault offense w/o malice) (through 2020)"
 92=Other Non-Moving Traffic Violation (through 2011)
 Possible Distraction Inside Vehicle (through 2009)
-93=Cellular Telephone 
-94=Cellular Telephone in Use (2002-2009); 
-95=Computer (through 2001); 
+93=Cellular Telephone (through 2009)
+94=Cellular Telephone in Use (2002-2009)
+95=Computer (through 2001)
 "95=Computer, Fax, Printer (2002-2009)"
-96=On-Board Navigation System
-97=Two-Way Radio
-98=Head-Up Display
-99=Unknown
+96=On-Board Navigation System(through 2009)
+97=Two-Way Radio(through 2009)
+98=Head-Up Display(through 2009)
+99=Unknown(through 2009)
 Added in 2019:
-94=Emergency Medical Service Personnel
-95=Fire Personnel
-96=Tow Operator
-"97=Transportation i.e. maintenance workers, saftety service patrol operators, etc."
+94=Emergency Medical Service Personnel (through 2019)
+95=Fire Personnel (through 2019)
+96=Tow Operator (through 2019)
+"97=Transportation i.e. maintenance workers, saftety service patrol operators, etc. (through 2019)"
