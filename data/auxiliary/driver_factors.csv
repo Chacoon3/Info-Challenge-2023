@@ -9,7 +9,7 @@
 "2012,",6 = Careless Driving(since 2012)
 ",2009",7=Restricted to Wheelchair (through 2009)
 ",1994","8=Paraplegic (through 1994), "
-"2004,",Aggressive Driving Road Rage (since 2004) 
+"2004,",8=Aggressive Driving Road Rage (since 2004) 
 ,10=Looked but did not see
 ,12=Mother of Dead Fetus or Infant Born Post-Crash
 ",2020",13=Mentally Challenged (through 2020)
@@ -93,12 +93,11 @@
 ,"87=Ice, Water, Snow, Slush, Sand, Dirt, Oil, or Wet Leaves on Road"
 ,89=Driver has Driving Record or License from More than One State 
 ",2020","91=Non-Traffic Violation Charged (manslaughter, homicide, other assault offense w/o malice) (through 2020)"
-20102011,92=Other Non-Moving Traffic Violation (through 2011) 
-",2009",Possible Distraction Inside Vehicle (through 2009)
+",2011",92=Other Non-Moving Traffic Violation (through 2011) 
 ,93=Cellular Telephone 
-20022009,94=Cellular Telephone in Use (2002-2009); 
+"20,022,009",94=Cellular Telephone in Use (2002-2009); 
 ",2001",95=Computer (through 2001)
-20022009,"95=Computer, Fax, Printer (2002-2009)"
+"20,022,009","95=Computer, Fax, Printer (2002-2009)"
 ,96=On-Board Navigation System
 ,97=Two-Way Radio
 ,98=Head-Up Display
