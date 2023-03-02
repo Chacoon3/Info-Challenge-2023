@@ -1,0 +1,22 @@
+race,race_index
+Not a Fatality,0
+White  ,1
+Black  ,2
+North American Indian or Alaska Native  ,3
+Chinese  ,4
+Japanese  ,5
+Native Hawaiian  ,6
+Filipino  ,7
+Asian Indian  ,18
+Other Indian (So.& Cent. America)  ,19
+Korean  ,28
+Samoan  ,38
+Vietnamese  ,48
+Guamanian or Chamorro ,58
+Other Asian or Pacific Islander  ,68
+"Asian/Pacific Islander, No specific race  ",78
+Multiple Races Unspecified  ,97
+Other Race ,98
+Unknown,99
+"Asian/Pacific Islander, No specific race",278
+Multiple Race - Other Races,298

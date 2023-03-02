@@ -1,0 +1,37 @@
+﻿race_code
+00=Not a Fatality
+01=White  
+02=Black  
+03=North American Indian or Alaska Native  
+04=Chinese  
+05=Japanese  
+06=Native Hawaiian  
+07=Filipino  
+18=Asian Indian  
+19=Other Indian (So.& Cent. America)  
+28=Korean  
+38=Samoan  
+48=Vietnamese  
+58=Guamanian or Chamorro 
+68=Other Asian or Pacific Islander  
+"78=Asian/Pacific Islander, No specific race  "
+97=Multiple Races Unspecified  
+98=Other Race 
+99=Unknown
+Multiple Race Codes - Used to code multi-race - All records with more than one race will have race codes in 200s:
+201=White  
+202=Black  
+203=North American Indian or Alaska Native  
+204=Chinese  
+205=Japanese  
+206=Native Hawaiian  
+207=Filipino  
+218=Asian Indian  
+219=Other Indian (So.& Cent. America)  
+228=Korean  
+238=Samoan  
+248=Vietnamese  
+258=Guamanian or Chamorro 
+268=Other Asian or Pacific Islander  
+"278=Asian/Pacific Islander, No specific race"
+298=Multiple Race - Other Races
